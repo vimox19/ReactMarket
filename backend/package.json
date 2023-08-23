@@ -1,0 +1,23 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "description": "Market Place for Tmpa evaluation (Mern Stack)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimox19/ReactMarket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vimox19/ReactMarket/issues"
+  },
+  "homepage": "https://github.com/vimox19/ReactMarket#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
